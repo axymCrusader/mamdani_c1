@@ -1,0 +1,488 @@
+[
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Little",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Medium",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Little",
+        "px": "Many",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Medium",
+        "px": "Many",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Little",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Medium",
+        "price_range": "Expensive"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Cheap"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Optimal"
+    },
+    {
+        "battery_power": "Much",
+        "ram": "Many",
+        "px": "Many",
+        "price_range": "Expensive"
+    }
+]
